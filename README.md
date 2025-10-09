@@ -4,7 +4,7 @@
 
 # ¡Hola! 👋 Soy Arnau 
 
-Bienvenido/a a mi perfil de GitHub — un espacio donde la **creatividad y el código juegan en el mismo equipo**.  
+Bienvenido a mi perfil de GitHub — un espacio donde la **creatividad y el código juegan en el mismo equipo**.  
 Soy un apasionado del desarrollo, el diseño digital y el trabajo en equipo, siempre buscando mejorar mi juego con cada proyecto. 🚀
 
 
