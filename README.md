@@ -33,8 +33,6 @@ Soy un apasionado del desarrollo, el diseño digital y el trabajo en equipo, sie
 -  Mi “entrenador” es la curiosidad constante.  
 
 ---
-### Projectes
-- [Projecte 2](Projecte02)
 
 ### Un poco de energía visual
 
