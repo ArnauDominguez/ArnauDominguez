@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs9PLw23nG9HMxz6-fdvbpTbo0e7fvzfXCSZGgQUjenotcIS2q0mb1JsXfehXfwpuA4qsqeSMHOuzCKnZkqVxVg1Oilm3UgoXKnayrWGdTm7ttv2LddDgTpQdtrMzgVA2DEmJBp9N6HX6L/s1600/Soccer+Homer.gif" width="120" alt="Homer jugant a futbol" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs9PLw23nG9HMxz6-fdvbpTbo0e7fvzfXCSZGgQUjenotcIS2q0mb1JsXfehXfwpuA4qsqeSMHOuzCKnZkqVxVg1Oilm3UgoXKnayrWGdTm7ttv2LddDgTpQdtrMzgVA2DEmJBp9N6HX6L/s1600/Soccer+Homer.gif" width="800" alt="Homer jugant a futbol" />
 </p>
 
 <h1 align="center">⚽ Arnau — Codi amb Passió ⚽</h1>
