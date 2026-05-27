@@ -35,6 +35,7 @@
 | 🧩 **Projecte02** | Presentació personal i lliuraments individuals. | [Projecte02](https://github.com/ArnauDominguez/Projecte2) |
 | ⚡ **Projecte03** | LLiuraments del projecte 3 | [Projecte03](https://github.com/ArnauDominguez/Projecte-03) |
 | 🤖 **Projecte04** | Lliuraments del projecte 4 | [Projecte04](https://github.com/ArnauDominguez/Projecte-04) |
+| 🤖 **Projecte0** | Lliuraments del projecte 5 | [Projecte05](https://github.com/ArnauDominguez/projecte5-ArnauDominguez) |
 
 ---
 
