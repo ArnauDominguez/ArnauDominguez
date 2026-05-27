@@ -32,11 +32,13 @@
 
 | Projecte | Descripció | Enllaç |
 |-----------|-------------|--------|
-| 🧩 **Projecte02** | Presentació personal i lliuraments individuals. | [Projecte02](https://github.com/ArnauDominguez/Projecte2) |
-| ⚡ **Projecte03** | LLiuraments del projecte 3 | [Projecte03](https://github.com/ArnauDominguez/Projecte-03) |
-| 🤖 **Projecte04** | Lliuraments del projecte 4 | [Projecte04](https://github.com/ArnauDominguez/Projecte-04) |
-| 🤖 **Projecte0** | Lliuraments del projecte 5 | [Projecte05](https://github.com/ArnauDominguez/projecte5-ArnauDominguez) |
-
+|  **Projecte02** | Presentació personal i lliuraments individuals. | [Projecte02](https://github.com/ArnauDominguez/Projecte2) |
+|  **Projecte03** | LLiuraments del projecte 3 | [Projecte03](https://github.com/ArnauDominguez/Projecte-03) |
+|  **Projecte04** | Lliuraments del projecte 4 | [Projecte04](https://github.com/ArnauDominguez/Projecte-04) |
+|  **Projecte05** | Lliuraments del projecte 5 | [Projecte05](https://github.com/ArnauDominguez/projecte5-ArnauDominguez) |
+|  **Projecte06** | Lliuraments del projecte 6 | [Projecte06](https://github.com/ArnauDominguez/projecte6-ArnauDominguez) |
+|  **Projecte07** | Lliuraments del projecte 7 | [Projecte07](https://github.com/ArnauDominguez/projecte-7-ArnauDominguez-1) |
+|  **Projecte08** | Lliuraments del projecte 8 | [Projecte08](https://github.com/ArnauDominguez/projecte-8-ArnauDominguez) |
 ---
 
 ### 📫 Contacte
