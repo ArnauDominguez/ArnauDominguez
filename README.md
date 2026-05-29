@@ -39,6 +39,8 @@
 |  **Projecte06** | Lliuraments del projecte 6 | [Projecte06](https://github.com/ArnauDominguez/projecte6-ArnauDominguez) |
 |  **Projecte07** | Lliuraments del projecte 7 | [Projecte07](https://github.com/ArnauDominguez/projecte-7-ArnauDominguez-1) |
 |  **Projecte08** | Lliuraments del projecte 8 | [Projecte08](https://github.com/ArnauDominguez/projecte-8-ArnauDominguez) |
+|  **Ud9 Sistemes** | Lliurament | [Ud9](https://github.com/ArnauDominguez/ud9-agregarzorinad-ArnauDominguez) |
+|  **Web** | Codis de la web | [Web](https://github.com/ArnauDominguez/web) |
 ---
 
 ### 📫 Contacte
