@@ -17,7 +17,7 @@
 - 🌱 Sempre entrenant per millorar la meva tècnica, línia a línia de codi.  
 - 🏟️ Fan dels projectes ben organitzats i amb bona tàctica.  
 
-**Al arxiu [Presentacio.md]() es troba la informació mes detallada**
+**Al arxiu [Presentacio.md](https://github.com/ArnauDominguez/Presentacio.md/blob/main/README.md) es troba la informació mes detallada**
 ---
 
 ### ⚽ Filosofia de joc
